@@ -1,0 +1,23 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "For learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshit-1223/node.git"
+  },
+  "author": "Anshit Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshit-1223/node/issues"
+  },
+  "homepage": "https://github.com/anshit-1223/node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
